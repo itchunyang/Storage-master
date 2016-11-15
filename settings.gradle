@@ -1,0 +1,1 @@
+include ':app', ':assetsandraw', ':sqlite', ':sharepreference'

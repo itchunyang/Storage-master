@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <Button
+        android:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="openOrCreate"
+        android:text="打开或者创建数据库" />
+
+    <Button
+        android:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="add"
+        android:text="添加数据" />
+
+    <Button
+        android:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="delete"
+        android:text="删除数据" />
+
+    <Button
+        android:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="update"
+        android:text="修改数据" />
+
+    <Button
+        android:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="query"
+        android:text="查询数据" />
+
+    <Button
+        android:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="transaction"
+        android:text="事物操作" />
+
+    <Button
+        android:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="closeDb"
+        android:text="关闭数据库" />
+
+    <Button
+        android:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="deleteDb"
+        android:text="删除数据库" />
+
+</LinearLayout>

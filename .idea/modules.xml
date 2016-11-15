@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Storage-master.iml" filepath="$PROJECT_DIR$/Storage-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assetsandraw/assetsandraw.iml" filepath="$PROJECT_DIR$/assetsandraw/assetsandraw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharepreference/sharepreference.iml" filepath="$PROJECT_DIR$/sharepreference/sharepreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlite/sqlite.iml" filepath="$PROJECT_DIR$/sqlite/sqlite.iml" />
+    </modules>
+  </component>
+</project>
